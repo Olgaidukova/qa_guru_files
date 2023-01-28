@@ -1,0 +1,16 @@
+[
+{
+  "address": "422530 Российская Федерация, Респ Татарстан, р-н Зеленодольский, пгт Васильево, ул Набережная, двлд. 3",
+  "name": "Анатолий",
+  "surname": "Петров",
+  "cardUid": "MLCCOF141442058",
+  "deliveryMethod": ["POST_OFFICE","TO_ADDRESS"]
+},
+  {
+    "address": "обл Курская, г Курчатов, ул Космонавтов, д. 6",
+    "name": "Олег",
+    "surname": "Иванов",
+    "cardUid": "MLCCOF141442060",
+    "deliveryMethod": ["POST_OFFICE","TO_ADDRESS"]
+  }
+]
